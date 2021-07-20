@@ -3,7 +3,7 @@
 
 name: Build and deploy ASP.Net Core app to Azure Web App - plataforma-web-industria-4-0-UQ
 
-on:
+on: login.php
   push:
     branches:
       - main
